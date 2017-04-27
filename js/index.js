@@ -1,4 +1,4 @@
-$(function () {
+(function () {
     (function () {
         var icur = 0;
         var now = 0;
@@ -89,4 +89,4 @@ $(function () {
     window.setInterval(getTimes,1000);
 
 
-});
+})();
